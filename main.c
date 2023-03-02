@@ -16,7 +16,7 @@ int main()
   avg = sum / 3;
 
   // display entered numbers
-  printf("Entered numbers are: %.2f, %.2f and %.2f\n",
+  printf("Entered numbers are: %.2f, %.2f and %.2f\n",//.2f simply means it'll output 2 decimalpoints
            num1, num2, num3);
 
   // display sum and average
